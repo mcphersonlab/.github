@@ -11,9 +11,9 @@
 
 ## 👋 Who we are
 We study how drugs move through and act within complex biological systems. We strive to push the boundaries in 
-- The pharmacologists' [**Receptor Theory**](https://www.sciencedirect.com/science/article/pii/B9780323992893000038), the biochemists' [**Transient-State Theory**](https://app-knovel-com.ezproxy.lib.uh.edu/kn/resources/kpEAPISMD1/toc), and the chemists' [**Density Functional Theory**](https://www.nature.com/collections/gcijejjahe)
-- **Infectious Diseases**, **Antimicrobial resistance (AMR)**, microbiome-sparing antibiotics, and  *C. difficile* pathobiology
-- Reproducible pipelines in computational biology, cloud computing, artificial intelligence
+- **Infectious Diseases**, **Antimicrobial resistance (AMR)**, **microbiome-sparing antibiotics**, and  *C. difficile* pathobiology
+- **Computational biology**, **cloud computing**, **artificial intelligence**
+- **Health literacy** and **health economics**
 
 ---
 
