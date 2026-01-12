@@ -11,17 +11,17 @@
 
 ## 👋 Who we are
 We study how drugs move through and act within complex biological systems. We strive to push the boundaries in 
-- **Infectious diseases**, **antimicrobial resistance (AMR)**, **microbiome-sparing antibiotics**, and  *C. difficile* pathobiology
-- **Computational biology**, **cloud computing**, **artificial intelligence**
-- **Health Education**, **health literacy** and **health economics**
+- 🧫 **Pharmacology** of **Infectious diseases**, **antimicrobial resistance (AMR)**, **microbiome (*C. difficile*) pathophysiology**
+- 💊 **Drug development** via **Computational biology**, **cloud computing**, **artificial intelligence** for 
+- 📚 **Health Education**, **health literacy** and **health economics**
 
 ---
 
 ## 🔗 Quick links
 - 🌐 **[Website](https://mcphersonlab.github.io)**
 - 📚 **[Publications](https://mcphersonlab.github.io/publications/)**
-- 🧑‍💻 **[Recruting](https://mcphersonlab.github.io/people/join.html)**
-- ✉️ **[Contact](https://jacobkmcpherson.com/contact)**
+- 🥼 **[Recruting](https://mcphersonlab.github.io/people/join.html)**
+- 💌 **[Contact](https://jacobkmcpherson.com/contact)**
 
 ---
 
