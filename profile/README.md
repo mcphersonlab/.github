@@ -11,9 +11,9 @@
 
 ## 👋 Who we are
 We study how drugs move through and act within complex biological systems. We strive to push the boundaries in 
-- **Infectious Diseases**, **Antimicrobial resistance (AMR)**, **microbiome-sparing antibiotics**, and  *C. difficile* pathobiology
+- **Infectious diseases**, **antimicrobial resistance (AMR)**, **microbiome-sparing antibiotics**, and  *C. difficile* pathobiology
 - **Computational biology**, **cloud computing**, **artificial intelligence**
-- **Health literacy** and **health economics**
+- **Health Education**, **health literacy** and **health economics**
 
 ---
 
