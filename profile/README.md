@@ -9,7 +9,7 @@
 
 ---
 
-## 👋 Who we are
+## 👋🏻 Who we are
 We study how drugs move through and act within complex biological systems. We strive to push the boundaries in 
 - 🧫 **Pharmacology** of **Infectious diseases**, **antimicrobial resistance (AMR)**, and **microbiome (*C. difficile*) pathophysiology**
 - 💊 **Drug development** via **computational biology**, **cloud computing**, and **artificial intelligence**
